@@ -1,0 +1,112 @@
+head {
+    background-color: #2F4F4F;
+    margin-top: 10vw;
+    margin: 30px auto;
+    color:whitesmoke
+
+}
+body {
+  position: center;
+  background-color: #DCDCDC;
+    margin: 0 auto;
+    margin-top: 10vw;
+    color: rgb(29, 11, 34);
+    width: 89%;
+    height: 1000px;
+    padding:0px;
+    font-size: 20px;
+    word-spacing: 4px;
+}
+
+nav {
+    background-color: #2F4F4F;
+    color: white;  
+    border-bottom: 5px solid #466995;
+    position: fixed;
+    width: 100%;
+    margin-top: 5px;
+    text-align: center;
+    text-indent: 1em;
+    text-transform: capitalize;
+    padding: 5px;
+    font-family: fantasy;
+  }
+
+  #first {
+    margin-top: 60px;
+    background-color: #FFFFFF;
+    width: 80%;
+    background-image: repeating-radial-gradient();
+    box-shadow: 0 4px 8px 0 #466995,  0 6px 20px 0 #466995;
+  }
+
+  .cardy {
+    background-color: #C0C0C0	;
+    color: #2F4F4F	;  
+    border-bottom: 5px solid #466995;
+    position: center;
+    width: 96%;
+    margin-top: 5px;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 50px;
+    text-align: center;
+    text-indent: 1em;
+    /* text-transform: capitalize; */
+    padding: 5px;
+  }
+
+
+  .card-body {
+    background-color: #C0C0C0	;
+    color: #2F4F4F	;  
+    border-bottom: 5px solid #466995;
+    position: center;
+    width: 96%;
+    margin-top: 5px;
+    margin-left: 50px;
+    text-align: center;
+    text-indent: 1em;
+    /* text-transform: capitalize; */
+    padding: 5px;
+  }
+
+  .card{
+    width: 60%;
+    position: center;
+  }
+
+  h2 {
+    text-align: center;
+    color: #800000	;
+    font-family: fantasy;
+  }
+
+  h3 {
+    color: rgb(11, 2, 41);
+    font-family: fantasy;
+  }
+
+  .para, .parag {
+    margin-left: 200px;
+    color: rgb(82, 5, 5);
+  }
+
+  .course-container {
+    background-color: rgb(128, 111, 111);
+  }
+  button {
+    background-color: #708090	;
+    color: #FFFFFF	;
+   border: 10px;
+    border: #FFFFFF ;
+    border-radius: 5px;
+
+  }
+
+  button:hover {
+    background-color: #B22222	;
+    color: #2F4F4F;
+    border: #FFFFFF ;
+    border-radius: 5px;
+  }
